@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  startd: 2021-04-02
+  endd: 2021-04-02
+  alld: 2021-04-02
+
+two:
+  title: MyString
+  startd: 2021-04-02
+  endd: 2021-04-02
+  alld: 2021-04-02
